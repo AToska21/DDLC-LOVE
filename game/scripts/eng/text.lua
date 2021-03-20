@@ -111,7 +111,7 @@ tr.menuhelp = {
 	' : Toggle text outline'
 }
 tr.error = {
-'Press Y/Triangle to quit',
+'Press REDACTED to quit',
 [[
 Error!
 Old save data detected, and it is not compatible with this version of DDLC-LOVE.
